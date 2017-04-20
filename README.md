@@ -11,3 +11,5 @@ j
 j
 opppppp
 ddsdsdds
+
+zmiany po kolei 1
