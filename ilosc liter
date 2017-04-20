@@ -1,0 +1,39 @@
+#include<iostream.h>
+#include<stdio.h>
+#include<string.h>
+
+
+main()
+{
+char napis[255];
+cout<<"Wpisz jakies zdanie !!"<<endl;
+cout<<" : ";
+gets(napis);
+
+int ilosc=strlen(napis);
+for (int i=0;i<strlen(napis)-1;i++)
+	 {
+	 if (napis[i]== ' '){ ilosc--;}
+	 }
+cout<<"liter w zdaniu jest : "<<ilosc;
+
+}
+
+// program nie zlicza spacji.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//algorytm sciagniety ze strony http://PlayCOM.w.interia.pl
