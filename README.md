@@ -19,3 +19,4 @@ zmiany po kolei 1
 5 a jednak inne
 6
 7
+8
