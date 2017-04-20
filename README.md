@@ -13,3 +13,4 @@ opppppp
 ddsdsdds
 
 zmiany po kolei 1
+2 teraz
