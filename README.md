@@ -18,3 +18,4 @@ zmiany po kolei 1
 4 niby to samo 
 5 a jednak inne
 6
+7
