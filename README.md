@@ -21,3 +21,4 @@ zmiany po kolei 1
 7
 8
 9
+10
