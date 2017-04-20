@@ -15,3 +15,4 @@ ddsdsdds
 zmiany po kolei 1
 2 teraz
 3 kolejna
+4 niby to samo 
